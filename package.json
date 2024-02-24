@@ -1,0 +1,9 @@
+{
+	"exports": {
+		".": "./openapi.json"
+	},
+	"files": [
+		"./openapi.json"
+	],
+	"name": "openalex-openapi-spec"
+}
